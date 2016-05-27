@@ -81,6 +81,7 @@ input[type="submit"] { cursor: pointer; }
 	text-transform: uppercase;
 }
 
+
 .login-form fieldset {
 	background: #fff;
 	border-radius: 0 0 5px 5px;
